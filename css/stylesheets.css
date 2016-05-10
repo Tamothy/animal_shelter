@@ -1,0 +1,17 @@
+img {
+  width: 120px;
+  height: auto;
+}
+
+.columns {
+  width: 300px;
+  float: left;
+}
+
+.columns h3 {
+  font-style: italic;
+}
+
+.columns p {
+  color: green;
+}
